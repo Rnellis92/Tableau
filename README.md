@@ -69,6 +69,11 @@ This project forms part of my wider Level 3 Data Analyst training and builds on 
 It demonstrates my progression towards using professional Business Intelligence and data visualisation tools to transform data into clear, interactive and actionable insights.
 
 ![image_alt](https://github.com/Rnellis92/Tableau/blob/main/GB%20employment%20Data.jpg?raw=true) 
+(Global Employment Data) 
+
+![image_alt](https://github.com/Rnellis92/Tableau/blob/main/Global%20Health%20Insights.jpg?raw=true) 
+(Global Health Data Insights) 
+
 
 Source data is included in the repository. 
 
