@@ -70,4 +70,4 @@ It demonstrates my progression towards using professional Business Intelligence 
 
 Source data is included in the repository. 
 
-Tableau profile link is https://public.tableau.com/app/profile/ryan.nellis/vizzes. 
+[Link to my Tableau Dashboard](https://public.tableau.com/app/profile/ryan.nellis/vizzes)
